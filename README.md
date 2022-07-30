@@ -1,6 +1,6 @@
 # Trybewarts
 
-### 1º Projeto de front-end do curso Trybe aplicado no bloco de fundamentos.
+### Projeto do curso Trybe aplicado no bloco de fundamentos.
 
 <details>
 <summary><strong>🛠  Tecnologias:</strong></summary>
